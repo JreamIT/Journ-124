@@ -9,3 +9,4 @@ This is the **Reason** why I choose _Different Frequent Flyers for move to an un
 3. As you can see, the bar in the graph just goes super long for people think is not rude at all
 
 ## images:
+![This is a bar graph](data-graph.png)
